@@ -1,11 +1,3 @@
-// GROUP 20: RESTAURANT ORDERING SYSTEM
-// Members:
-// 1. 26/U/0315     - OKALEBO ALVIN JOSEPH
-// 2. 26/U/04033/PS - NAKITENDE BUSHILLAH
-// 3. 26/U/03574/PS - MUNGOMA ISAAC TREVOR
-// 4. 26/U/03486/PS - ANKUNDA JOSEPH BETONDE
-// 5. 26/U/03671/PS - WOZEI IVAN DAVID
-
 // orderitem class is used to copy objects from Item class and store them in a blank array as order objects 
 class OrderItem {
     private final String name;
